@@ -7,7 +7,7 @@
             "name": "Crimson"
         }
     ],
-    "version": "1.0.0",
+    "version": "2.0.0",
     "compatibility": {
         "minimum": "10",
         "verified": "10"
@@ -22,6 +22,6 @@
         }
     ],
     "url": "https://github.com/CrimsonShiroe/savant-class",
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/CrimsonShiroe/savant-class/releases/download/2.0.0/module.json",
+    "download": "https://github.com/CrimsonShiroe/savant-class/releases/download/2.0.0/savant-class.zip"
 }
