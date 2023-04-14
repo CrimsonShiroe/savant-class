@@ -1,0 +1,25 @@
+{
+    "id": "savant-class",
+    "title": "The Savant Class",
+    "description": "A FoundryVTT implementation of the Savant Class by LaserLlama",
+    "authors": [
+        {
+            "name": "Crimson"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "the-savant-class",
+            "label": "The Savant Class",
+            "system": "dnd5e",
+            "path": "./packs/the-savant-class.db",
+            "type": "Item"
+        }
+    ],
+    "manifest": ""
+}
